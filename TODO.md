@@ -1,0 +1,2 @@
+- add "logbook" queue, make avail through config, add hooks to creature actions to push formatted messages to logbook
+- orchestrator class can read messages from logbook
