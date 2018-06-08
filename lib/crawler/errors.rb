@@ -3,5 +3,7 @@ module Crawler
     class CrawlerError < StandardError; end
 
     class CreatureError < CrawlerError; end
+
+    class RoomError < CrawlerError; end
   end
 end
